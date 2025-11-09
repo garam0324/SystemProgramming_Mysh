@@ -13,7 +13,7 @@
 
 ---
 
-## 실행
+## 실행 (Ubuntu)
 ```bash
 gcc -o mysh mysh.c
 
